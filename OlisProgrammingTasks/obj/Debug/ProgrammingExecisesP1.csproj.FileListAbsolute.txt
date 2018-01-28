@@ -1,0 +1,9 @@
+C:\Users\Jerry\source\repos\ProgrammingExercises\OlisProgrammingTasks\bin\Debug\OlisProgrammingTasks.exe.config
+C:\Users\Jerry\source\repos\ProgrammingExercises\OlisProgrammingTasks\bin\Debug\OlisProgrammingTasks.exe
+C:\Users\Jerry\source\repos\ProgrammingExercises\OlisProgrammingTasks\bin\Debug\OlisProgrammingTasks.pdb
+C:\Users\Jerry\source\repos\ProgrammingExercises\OlisProgrammingTasks\bin\Debug\nunit.framework.dll
+C:\Users\Jerry\source\repos\ProgrammingExercises\OlisProgrammingTasks\bin\Debug\nunit.framework.xml
+C:\Users\Jerry\source\repos\ProgrammingExercises\OlisProgrammingTasks\obj\Debug\ProgrammingExecisesP1.csprojResolveAssemblyReference.cache
+C:\Users\Jerry\source\repos\ProgrammingExercises\OlisProgrammingTasks\obj\Debug\ProgrammingExecisesP1.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\source\repos\ProgrammingExercises\OlisProgrammingTasks\obj\Debug\OlisProgrammingTasks.exe
+C:\Users\Jerry\source\repos\ProgrammingExercises\OlisProgrammingTasks\obj\Debug\OlisProgrammingTasks.pdb
